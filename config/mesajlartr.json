@@ -1,0 +1,11 @@
+{
+    "messagenoperm": "**Bu Komutu Kullanabilmek İçin Mesajları Yönet Yetkisine Sahip Olmalısın !**",
+    "channelnotperm": "**Bu Komutu Kullanabilmek İçin **KANALLARI YÖNET** Yetkisine Sahip Olman Gerek !**",
+    "kicknoperm":"``Bu komutu kullanabilmek için Üyeleri At yetkisine sahip olmalısın!``",
+    "adminnoperm": "**Malesef Bu Komutu Sadece Yönetici Yetkisi Olanlar Kullanabilir**",
+    "bannoperm": ":no_entry: Bu komutu kullanabilmek için `Üyeleri Yasakla` yetkisine sahip olmanız gerek.",
+    "boterror": "Bir Sorun Oldu Lütfen Botun Geliştiricisi veya Yapımcısıyla İletişime Geçiniz!",
+    "ownernoperm": "Bu komutu kullanabilmek için **Sunucu Sahibi** olmalısın!",
+    "managemessagenoperm": "Bu Komutu Kullanabilmek için Mesajları Yönet Yetkinizin Bulunması Lazım !",
+    "bot_no_ban_perm": "Kullanıcıyı Banlayamıyorum Çünkü `Üyeleri Yasakla` Yetkim Yok."
+}

@@ -1,0 +1,10 @@
+{
+    "messagenoperm": "** Get Messages Authorization to Use This Command! **",
+    "channelnotperm":"**To Use This Command You Must Have **MANAGE CHANNELS** Authority !**",
+    "kicknoperm": "``You must have the Kick Members authorization to use this command!``",
+    "adminnoperm": "**Sorry, Only Administrators Can Use This Command !**",
+    "bannoperm": " :no_entry: In order to use this command, you need to have the 'Ban Members' privilege.",
+    "boterror": "There Is A Problem Please Contact The Bot's Developer or Maker!",
+    "ownernoperm": "You must be **Server Owner** to use this command!",
+    "bot_no_ban_perm": "I Can't Ban User Because I Don't Have The `Ban Members` Authority."
+}
